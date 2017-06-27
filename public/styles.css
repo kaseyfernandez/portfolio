@@ -7,10 +7,7 @@
     margin-top: 150px;
     padding-top: 200px!important;caption-side: v
 }
-.header {
-        margin-top: 150px;
-    padding-top: 150px!important;
-}
+
 
 .project {
      margin-top: 50px;
@@ -26,4 +23,22 @@
     padding-top: 25px!important;
     margin-bottom: 100px;
 
+}
+
+.oregon-outline {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.contact {
+    margin-top: 20px;
+    padding-top: 0px!important;
+    margin-bottom: 100px;
+}
+
+.social-media {
+      display: block;
+    margin: auto;
+    width: 20%;
 }
